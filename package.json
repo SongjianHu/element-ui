@@ -1,0 +1,25 @@
+{
+  "name": "supply-chain-frontend",
+  "version": "1.0.0",
+  "description": "供应链管理系统前端",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "vue": "^3.3.4",
+    "vue-router": "^4.2.5",
+    "vuex": "^4.1.0",
+    "element-plus": "^2.4.2",
+    "axios": "^1.6.0",
+    "@element-plus/icons-vue": "^2.1.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.8",
+    "@vue/compiler-sfc": "^3.3.4",
+    "sass": "^1.69.5",
+    "sass-loader": "^13.3.2"
+  }
+} 
